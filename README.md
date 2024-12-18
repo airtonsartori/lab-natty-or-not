@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Video de apresentação de Gerente de Investimentos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video para me apresentar e convidar oc clientes para virem começar ou aprender mais sobre investimentos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para criar um roteiro
+Vidnoz para criar um vídeo com um avatar
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "Vidnoz" foi essencial para criar um avatar virtual e voz sintetizada com uma música e imagem de fundo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O video é um convite para novos e antigos investidores
 ```
 
 ### Exemplos e Insigths
